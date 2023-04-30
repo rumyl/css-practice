@@ -1,0 +1,17 @@
+body{
+
+  font-family: "Verdana", sans-serif;
+
+
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+
+#wrap{
+
+	text-align: center;
+	background-color: #5b7fbd;
+}
